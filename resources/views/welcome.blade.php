@@ -38,7 +38,7 @@
 <body>
 <div class="container">
     <div class="content">
-        <div class="title">Chen ChunChang!!!</div>
+        <div class="title">博客系统---陈春长</div>
     </div>
 </div>
 </body>
