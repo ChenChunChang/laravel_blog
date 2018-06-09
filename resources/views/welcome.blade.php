@@ -40,7 +40,8 @@
     <div class="content">
         <div class="title">
             博客系统---陈春长
-            <p>我是你爷爷！！！</p>
+            <p>123</p>
+            <p>666</p>
         </div>
     </div>
 </div>
