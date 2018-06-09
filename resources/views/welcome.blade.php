@@ -39,7 +39,7 @@
 <div class="container">
     <div class="content">
         <div class="title">
-            博客系统---陈春长
+            砸金花心痛
             <p>123</p>
             <p>666</p>
         </div>
