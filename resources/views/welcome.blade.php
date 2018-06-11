@@ -39,9 +39,7 @@
 <div class="container">
     <div class="content">
         <div class="title">
-            砸金花心痛
-            <p>123</p>
-            <p>666</p>
+          岁月依旧--人生苦短
         </div>
     </div>
 </div>
